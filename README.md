@@ -1,6 +1,8 @@
 # Gemini Token Manager
 A real-time token usage tracking and visualization system for managing Google Gemini API token limits with Redis/Python backend and React frontend.
 
+![Gemini Dashboard](Gemini_Cost_Analysis.png)
+
 ## Features
 - **Real-time Token Tracking**: Monitor token usage with live updates every 30 seconds
 - **Daily Limit Management**: Automatically prevents API calls when approaching daily token limits
@@ -13,7 +15,6 @@ A real-time token usage tracking and visualization system for managing Google Ge
 - Python 3.8+
 - Node.js 14+
 - Redis Server
-
 
 ## Installation
 
